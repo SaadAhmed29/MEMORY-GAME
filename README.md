@@ -24,7 +24,7 @@ Hard 🔴 – Large grid, fast-disappearing pattern.
 
 ✅ Built with C++ and SFML – Smooth graphics and animations.
 
-✅ Data Structures Integration – Uses arrays, queues, and stacks for game logic.
+✅ Data Structures Integration – Uses dynamic arrays and queues for game logic.
 
 ✅ Difficulty Scaling – Three levels of challenge.
 
